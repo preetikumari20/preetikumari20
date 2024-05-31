@@ -4,7 +4,7 @@
 I'm a dedicated full stack web developer with a passion for crafting elegant solutions to complex problems. I thrive on building responsive, user-centric web applications that leave a lasting impact. From conceptualization to deployment, I'm committed to delivering high-quality software that exceeds expectations.
 
 ## Skills
-- **Frontend**: HTML5, CSS3, JavaScript, React.js
+- **Frontend**: HTML5, CSS3, JavaScript, BootStrap, React.js
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Other Technologies**: RESTful APIs, Git
